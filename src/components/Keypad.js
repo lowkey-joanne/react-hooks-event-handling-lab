@@ -9,9 +9,7 @@ function Keypad (){
       type='password' 
       />
     </div>
-  )
-    
-    
+  ); 
 }
 
 export default Keypad;
